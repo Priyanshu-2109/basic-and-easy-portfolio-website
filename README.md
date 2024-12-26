@@ -31,5 +31,5 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## Contact
 
-If you have any questions or suggestions, please contact me at [p.com].
+If you have any questions or suggestions, please contact me at [piyuthehero@gmail.com].
 
