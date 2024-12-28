@@ -12,7 +12,7 @@ This is a portfolio website made using HTML, CSS, and JavaScript only. This is a
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/basic-and-easy-portfolio-website.git
+    git clone https://github.com/Priyanshu-2109/basic-and-easy-portfolio-website.git
     ```
 2. Open the project folder:
     ```bash
